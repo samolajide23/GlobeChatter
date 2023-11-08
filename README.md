@@ -24,5 +24,5 @@ To get started with GlobeChatter, follow these steps:
 ## Research Documentation
 
 - Setting up net socket - https://www.youtube.com/watch?v=BDVfpPq3weo
-Google Translate API - https://cloud.google.com/translate/docs/reference/api-overview#client_libraries
-Detect Language API - https://github.com/detectlanguage/detectlanguage-dotnet
+- Google Translate API - https://cloud.google.com/translate/docs/reference/api-overview#client_libraries
+- Detect Language API - https://github.com/detectlanguage/detectlanguage-dotnet
