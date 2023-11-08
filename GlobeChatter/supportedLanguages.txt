@@ -1,0 +1,9 @@
+﻿en
+es
+fr
+ru
+pt
+de
+ga
+ja
+ko
